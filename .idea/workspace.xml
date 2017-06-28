@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f355cd2-0808-49c4-8b87-f521e5b2992b" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular.js" afterPath="$PROJECT_DIR$/angular.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -46,14 +47,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="angular.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="angular.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/angular.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.079422385">
-              <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
-              <folding>
-                <element signature="e#146#622842#0" expanded="false" />
-              </folding>
+            <state vertical-scroll-proportion="-7.4666667">
+              <caret line="17844" column="10" selection-start-line="17844" selection-start-column="3" selection-end-line="17844" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="testAngularJS.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/testAngularJS.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.278481">
+              <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -127,6 +136,8 @@
         <option value="$PROJECT_DIR$/testMyFrame.html" />
         <option value="$PROJECT_DIR$/myFrame.js" />
         <option value="$PROJECT_DIR$/jquery-2.x-git.js" />
+        <option value="$PROJECT_DIR$/angular.js" />
+        <option value="$PROJECT_DIR$/testAngularJS.html" />
       </list>
     </option>
   </component>
@@ -318,7 +329,15 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/angular.js</url>
+          <line>5</line>
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
@@ -376,16 +395,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/myFrame.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="36" column="48" selection-start-line="36" selection-start-column="48" selection-end-line="36" selection-end-column="48" />
-          <folding>
-            <element signature="e#0#49#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Gruntfile.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -406,13 +415,29 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/myFrame.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="36" column="48" selection-start-line="36" selection-start-column="48" selection-end-line="36" selection-end-column="48" />
+          <folding>
+            <element signature="e#0#49#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/angular.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.079422385">
-          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
-          <folding>
-            <element signature="e#146#622842#0" expanded="false" />
-          </folding>
+        <state vertical-scroll-proportion="-7.4666667">
+          <caret line="17844" column="10" selection-start-line="17844" selection-start-column="3" selection-end-line="17844" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testAngularJS.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.278481">
+          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+          <folding />
         </state>
       </provider>
     </entry>

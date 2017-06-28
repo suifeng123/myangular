@@ -17898,5 +17898,5 @@ var styleDirective = valueFn({
     angularInit(document, bootstrap);
   });
 
-})(window, document);
+})(window, document);  //此处将window和document传递进去
 angular.element(document).find('head').prepend('<style type="text/css">@charset "UTF-8";[ng\\:cloak],[ng-cloak],[data-ng-cloak],[x-ng-cloak],.ng-cloak,.x-ng-cloak,.ng-hide{display:none !important;}ng\\:form{display:block;}</style>');
